@@ -8,17 +8,17 @@
 >
 </div>
 <p align="center">
-    <a href="https://wa.me/6281918532071"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green.svg?style=for-the-badge&logo=whatsapp" /></a>
+    <a href="https://wa.me/6281918532071"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-white.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-    <a href="https://www.instagram.com/sera.levia_tan"><img title="Instagram" src="https://img.shields.io/badge/Instagram-orange.svg?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://www.instagram.com/sera.levia_tan"><img title="Instagram" src="https://img.shields.io/badge/Instagram-white.svg?style=for-the-badge&logo=instagram" /></a>
 <p align="center">
-    <a href="https://www.facebook.com/firli.nursolafudin"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue.svg?style=for-the-badge&logo=facebook" /></a>
+    <a href="https://www.facebook.com/firli.nursolafudin"><img title="Facebook" src="https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook" /></a>
+<p align="center">
+    <a href="sera.levia.tan@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail" /></a>
 <p align="center">
     <a href="https://www.github.com/serafallleviathan"><img title="GitHub" src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github" /></a>
 <P align="center">
     <a href="https://www.youtube.com/@Levia-tan"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=youtube" /></a>
-<p align="center">
-    <a href="sera.levia.tan@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail" /></a>
 
 >
 >
