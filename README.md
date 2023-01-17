@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://www.facebook.com/firli.nursolafudin"><img title="Facebook" src="https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook" /></a>
 <p align="center">
-    <a href="sera.levia.tan@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://www.sera.levia.tan@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail" /></a>
 <p align="center">
     <a href="https://www.github.com/serafallleviathan"><img title="GitHub" src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github" /></a>
 <P align="center">
