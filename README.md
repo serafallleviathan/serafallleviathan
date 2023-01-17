@@ -8,7 +8,7 @@
 >
 </div>
 <p align="center">
-    <a href="https://wa.me/6281918532071"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Green.svg?style=for-the-badge&logo=whatsapp" /></a>
+    <a href="https://wa.me/6281918532071"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
     <a href="https://www.instagram.com/sera.levia_tan"><img title="Instagram" src="https://img.shields.io/badge/Instagram-orange.svg?style=for-the-badge&logo=instagram" /></a>
 <p align="center">
