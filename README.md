@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://www.instagram.com/sera.levia_tan"><img title="Instagram" src="https://img.shields.io/badge/Instagram-white.svg?style=for-the-badge&logo=instagram" /></a>
 <p align="center">
-    <a href="https://www.facebook.com/firli.nursolafudin"><img title="Facebook" src="https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook" /></a>
+    <a href="https://www.facebook.com/sera.leviathan"><img title="Facebook" src="https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook" /></a>
 <p align="center">
     <a href="https://www.sera.levia.tan@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-white.svg?style=for-the-badge&logo=gmail" /></a>
 <p align="center">
