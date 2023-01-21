@@ -18,7 +18,7 @@
 <p align="center">
     <a href="https://www.github.com/serafallleviathan"><img title="GitHub" src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github" /></a>
 <p align="center">
-    <a href="ttps://www.tiktok.com/@dxdleviathan"><img title="Tiktok" src="https://img.shields.io/badge/Tiktok-black.svg?style=for-the-badge&logo=tiktok" /></a>
+    <a href="https://www.tiktok.com/@dxdleviathan"><img title="Tiktok" src="https://img.shields.io/badge/Tiktok-black.svg?style=for-the-badge&logo=tiktok" /></a>
 <P align="center">
     <a href="https://www.youtube.com/@Levia-tan"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=youtube" /></a>
 
